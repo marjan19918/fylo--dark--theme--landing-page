@@ -368,13 +368,19 @@ font-weight: 700;
     .centerbot{
         flex-direction: column;
     }
-    #footersecond{
+    #fotersecond{
         flex-direction: column;
     }
+    .footer1{flex-direction: column;}
     .productivetext h2{
         font-size: 32px;
     }
+    
     .info{flex-direction: column;}
+    .thriple {
+        padding: 9px;}
+        .fourdivcont {
+             margin: 0px;}
     
 }
 @media screen and (max-width:460px) {
